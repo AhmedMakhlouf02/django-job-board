@@ -28,4 +28,15 @@ Blog :
 contact 
 home 
 
+- virtualenv
+    - create
+    - activate (source ./Scripts/activate)
+    - pip install
+    - deactivate
 
+- upload project on githup
+
+- url : path
+- view : logic
+- models : db
+- templates : frontend
