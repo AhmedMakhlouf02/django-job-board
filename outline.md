@@ -40,3 +40,9 @@ home
 - view : logic
 - models : db
 - templates : frontend
+
+---------------------------------------------
+Relations :
+    - One to Many (author - posts) ForeginKey
+    - Many to Many (users - groups) 
+    - One to One (user - profile)
